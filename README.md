@@ -17,4 +17,4 @@ ____________________________________________________
 
 
 <p><center>DashBoard Link<br>
-<a href="https://app.powerbi.com/view?r=eyJrIjoiNTVkMjAzYzItZTVhNy00ZjUzLTkwYjUtN2UzNjJkZmRlMzkzIiwidCI6ImUxYmFmYjIzLTU3YTEtNDlkZS1hODBkLThkYmUwMzZhNWVlYyJ9)">Click Here</a></p></center>
+<a href="https://app.powerbi.com/view?r=eyJrIjoiNTVkMjAzYzItZTVhNy00ZjUzLTkwYjUtN2UzNjJkZmRlMzkzIiwidCI6ImUxYmFmYjIzLTU3YTEtNDlkZS1hODBkLThkYmUwMzZhNWVlYyJ9&pageName=ReportSection">Click Here</a></p></center>
